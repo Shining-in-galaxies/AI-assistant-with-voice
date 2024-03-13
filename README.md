@@ -1,6 +1,6 @@
 # AI-assistant-with-voice
 
-Real time tts ai assistant chatbot, Siri & Alexa like
+Real time tts AI assistant chatbot, Siri & Alexa like
 
 ## Introduction
 
@@ -88,5 +88,5 @@ Developed and tested for Linux.
       If the command prints your API key, it has been successfully added to the environment variables.
 
 13. Running the Application
-    `ai_assistant_tss .py`
+    `python3 ai_assistant_tss .py`
     At this point, you can talk through microphone starting with `hey computer` to chat with the AI assistant.
