@@ -23,7 +23,7 @@ View presentation [PDF file](https://drive.google.com/file/d/1D2QIj9gxbgtZr7XqDU
 - **Python**: Core programming language.
 - **OpenAI API**: Natural language processing and generation.
 - **Whisper**: Speech recognition.
-- **OpenAI**: Text-to-speech conversion.
+- **OpenAI TTS**: Text-to-speech conversion.
 - **Pydub**: Audio manipulation.
 - **Threading & Queue**: Concurrent execution and inter-thread communication.
 
@@ -86,5 +86,5 @@ Developed and tested for Linux.
       If the command prints your API key, it has been successfully added to the environment variables.
 
 13. Running the Application
-    `python3 ai_assistant_tss .py`
+    `python3 ai_assistant_tss.py`
     At this point, you can talk through microphone starting with `hey computer` to chat with the AI assistant.
