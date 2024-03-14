@@ -1,6 +1,6 @@
-# AI-assistant-with-voice
+# GPT-AI-assistant-with-voice
 
-Real time tts AI assistant chatbot, Siri & Alexa like
+Real time tts AI assistant chatbot powered by GPT, Siri & Alexa like
 
 ## Introduction
 
@@ -8,7 +8,7 @@ This repository hosts an innovative real-time, voice-activated AI assistant akin
 
 ## Presentation
 
-View presentation [PDF file]()
+View presentation [PDF file](https://drive.google.com/file/d/1D2QIj9gxbgtZr7XqDUit6bXt9oS_KhiD/view?usp=share_link)
 
 ## Features
 
@@ -23,10 +23,8 @@ View presentation [PDF file]()
 - **Python**: Core programming language.
 - **OpenAI API**: Natural language processing and generation.
 - **Whisper**: Speech recognition.
-- **gTTS (Google Text-to-Speech)**: Text-to-speech conversion.
+- **OpenAI**: Text-to-speech conversion.
 - **Pydub**: Audio manipulation.
-- **SpeechRecognition**: Performing speech recognition.
-- **Dotenv**: Environment variable management.
 - **Threading & Queue**: Concurrent execution and inter-thread communication.
 
 ## Environment
